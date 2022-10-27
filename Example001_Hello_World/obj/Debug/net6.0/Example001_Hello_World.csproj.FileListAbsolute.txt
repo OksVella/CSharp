@@ -1,0 +1,15 @@
+C:\Users\vella\Documents\Projects\CSharp\CSharp\Example001_Hello_World\bin\Debug\net6.0\Example001_Hello_World.exe
+C:\Users\vella\Documents\Projects\CSharp\CSharp\Example001_Hello_World\bin\Debug\net6.0\Example001_Hello_World.deps.json
+C:\Users\vella\Documents\Projects\CSharp\CSharp\Example001_Hello_World\bin\Debug\net6.0\Example001_Hello_World.runtimeconfig.json
+C:\Users\vella\Documents\Projects\CSharp\CSharp\Example001_Hello_World\bin\Debug\net6.0\Example001_Hello_World.dll
+C:\Users\vella\Documents\Projects\CSharp\CSharp\Example001_Hello_World\bin\Debug\net6.0\Example001_Hello_World.pdb
+C:\Users\vella\Documents\Projects\CSharp\CSharp\Example001_Hello_World\obj\Debug\net6.0\Example001_Hello_World.csproj.AssemblyReference.cache
+C:\Users\vella\Documents\Projects\CSharp\CSharp\Example001_Hello_World\obj\Debug\net6.0\Example001_Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vella\Documents\Projects\CSharp\CSharp\Example001_Hello_World\obj\Debug\net6.0\Example001_Hello_World.AssemblyInfoInputs.cache
+C:\Users\vella\Documents\Projects\CSharp\CSharp\Example001_Hello_World\obj\Debug\net6.0\Example001_Hello_World.AssemblyInfo.cs
+C:\Users\vella\Documents\Projects\CSharp\CSharp\Example001_Hello_World\obj\Debug\net6.0\Example001_Hello_World.csproj.CoreCompileInputs.cache
+C:\Users\vella\Documents\Projects\CSharp\CSharp\Example001_Hello_World\obj\Debug\net6.0\Example001_Hello_World.dll
+C:\Users\vella\Documents\Projects\CSharp\CSharp\Example001_Hello_World\obj\Debug\net6.0\refint\Example001_Hello_World.dll
+C:\Users\vella\Documents\Projects\CSharp\CSharp\Example001_Hello_World\obj\Debug\net6.0\Example001_Hello_World.pdb
+C:\Users\vella\Documents\Projects\CSharp\CSharp\Example001_Hello_World\obj\Debug\net6.0\Example001_Hello_World.genruntimeconfig.cache
+C:\Users\vella\Documents\Projects\CSharp\CSharp\Example001_Hello_World\obj\Debug\net6.0\ref\Example001_Hello_World.dll
